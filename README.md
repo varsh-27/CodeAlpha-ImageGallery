@@ -49,8 +49,6 @@ A responsive, interactive image gallery built with Next.js and React that showca
 
 ## Development
 
-This project is automatically synced with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository.
 
 ## Live Demo
 
@@ -58,8 +56,3 @@ Your project is live at:
 
 **[https://vercel.com/varshithabugga66-2024s-projects/v0-code-alpha-image-gallery-cl](https://vercel.com/varshithabugga66-2024s-projects/v0-code-alpha-image-gallery-cl)**
 
-## Continue Building
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/4l6uUBhmgjZ](https://v0.dev/chat/projects/4l6uUBhmgjZ)**
